@@ -2,23 +2,32 @@
 
 LinkedIn carousel **frameworks** for independent ops/strategy consultants.
 
-**Not a blank aesthetic template.** Four rhetorical spines + one fully written niche example you can duplicate and retarget.
+**Not a blank aesthetic template.** Four rhetorical spines + one fully written niche example.
 
 ## Get the file
 
 | Source | Link |
 | --- | --- |
-| **Figma Community** | *Publishing — URL TBD (Builder)* |
+| **Figma Community** | *TBD — agent CloudFront 403; owner can Share → Publish when signed in* |
 | **Figma design (source)** | https://www.figma.com/design/9ScvV0w7R5ifSSefUNiEGz |
+| **Public demo / Pages** | https://ayanroy097.github.io/carouselkit/ |
 
 **file_key:** `9ScvV0w7R5ifSSefUNiEGz` · Frames: **1080×1350**
 
 ## Framework-1 preview
 
-**Topic:** *5 discovery-call mistakes independent ops consultants make*  
-Hook → 5 mistakes → recap → CTA (fully filled niche copy).
+**Topic:** *5 discovery-call mistakes independent ops consultants make*
 
-> Screenshots of FW1 slides 01–08 will land in `previews/` once exported from Figma. Until then, open the design file above and inspect page 1 (FW1).
+| # | Preview |
+| --- | --- |
+| 01 | [fw1-01.png](./previews/fw1-01.png) |
+| 02 | [fw1-02.png](./previews/fw1-02.png) |
+| 03 | [fw1-03.png](./previews/fw1-03.png) |
+| 04 | [fw1-04.png](./previews/fw1-04.png) |
+| 05 | [fw1-05.png](./previews/fw1-05.png) |
+| 06 | [fw1-06.png](./previews/fw1-06.png) |
+| 07 | [fw1-07.png](./previews/fw1-07.png) |
+| 08 | [fw1-08.png](./previews/fw1-08.png) |
 
 ## All frameworks
 
@@ -26,24 +35,19 @@ Hook → 5 mistakes → recap → CTA (fully filled niche copy).
 | --- | --- | --- |
 | FW1 Mistakes listicle | Discovery-call mistakes (ops consultants) | **Fully filled** |
 | FW2 Mistake → Fix | Paired corrective actions | Slots |
-| FW3 Checklist | Pre-flight checklist | Slots |
-| FW4 Case teardown + Offer anatomy | Diagnosis spine + offer anatomy |Slots |
+| FW3 Checklist | Pre-flight checklist |Slots |
+| FW4 Case teardown + Offer anatomy | Diagnosis + offer anatomy | Slots |
 
-## Under 25 minutes
+## How to use
 
-1. Duplicate from Community (or the design file).
+1. Duplicate from Community (when live) or the design file.
 2. Swap niche copy into slots (FW1 is the teaching example).
 3. Export PNG 01–08 or PDF → LinkedIn Document post (see [EXPORT.md](./EXPORT.md)).
 
 ## Honest differentiation
 
-Free Community files also help you work “in minutes.”  
-**This pack’s hold:** ops/strategy **niche-filled FW1** + explicit framework spines + slot contracts — not “we invented speed.”
+Free Community files also help you ship fast. **This pack’s hold:** ops/strategy **niche-filled FW1** + framework spines + slots — not a unique “minutes” claim vs Magier.
 
-## Cost / auth
+## Cost
 
-**Free.** No Gumroad. No ads. INR 0. LinkedIn promo from the studio is **off** until designated — this repo + Community are the free rails.
-
-## License
-
-Use for your own LinkedIn posts. Don’t resell the file as your own template pack.
+**Free.** No Gumroad. No ads. INR 0. LinkedIn promo **off**.
