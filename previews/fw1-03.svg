@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#0B1F33"/>
+  <rect width="1080" height="8" fill="#2DD4BF"/>
+  <text x="72" y="118" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="22" font-weight="700">MISTAKE 02</text>
+  <text x="72" y="160" fill="#FFFFFF" font-family="system-ui,Segoe UI,sans-serif" font-size="40" font-weight="700"><tspan x="72" dy="0">Treating discovery like a</tspan><tspan x="72" dy="52">demo of your methodology</tspan></text>
+  <text x="72" y="312" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="28"><tspan x="72" dy="0">They did not book a webinar. Discovery is</tspan><tspan x="72" dy="38">their problem on the table, not your</tspan><tspan x="72" dy="38">framework parade. Ask until you can</tspan><tspan x="72" dy="38">restate the constraint in their words.</tspan></text>
+  <text x="72" y="1294" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="18">CarouselKit · Framework 1 — Mistakes</text>
+  <text x="1008" y="1294" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="700" text-anchor="end">03 / 08</text>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#0B1F33"/>
+  <rect width="1080" height="8" fill="#2DD4BF"/>
+  <text x="72" y="118" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="22" font-weight="700">MISTAKE 01</text>
+  <text x="72" y="160" fill="#FFFFFF" font-family="system-ui,Segoe UI,sans-serif" font-size="40" font-weight="700"><tspan x="72" dy="0">Jumping into solutions</tspan><tspan x="72" dy="52">before mapping the operating</tspan><tspan x="72" dy="52">system</tspan></text>
+  <text x="72" y="364" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="28"><tspan x="72" dy="0">You pitch a playbook while the client</tspan><tspan x="72" dy="38">still runs on tribal knowledge, Slack</tspan><tspan x="72" dy="38">threads, and heroics. Diagnose the system</tspan><tspan x="72" dy="38">first — owners, handoffs, and failure</tspan><tspan x="72" dy="38">modes — then prescribe.</tspan></text>
+  <text x="72" y="1294" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="18">CarouselKit · Framework 1 — Mistakes</text>
+  <text x="1008" y="1294" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="700" text-anchor="end">02 / 08</text>
+</svg>

@@ -8,8 +8,9 @@ LinkedIn carousel **frameworks** for independent ops/strategy consultants.
 
 | Source | Link |
 | --- | --- |
-| **Figma Community** | *Publishing — URL TBD (Builder)* |
+| **Figma Community** | *Blocked from agent network (CloudFront 403) — URL TBD after owner Publish* |
 | **Figma design (source)** | https://www.figma.com/design/9ScvV0w7R5ifSSefUNiEGz |
+| **Public demo / Pages** | https://ayanroy097.github.io/carouselkit/ |
 
 **file_key:** `9ScvV0w7R5ifSSefUNiEGz` · Frames: **1080×1350**
 
@@ -18,7 +19,18 @@ LinkedIn carousel **frameworks** for independent ops/strategy consultants.
 **Topic:** *5 discovery-call mistakes independent ops consultants make*  
 Hook → 5 mistakes → recap → CTA (fully filled niche copy).
 
-> Screenshots of FW1 slides 01–08 will land in `previews/` once exported from Figma. Until then, open the design file above and inspect page 1 (FW1).
+| # | Preview |
+| --- | --- |
+| 01 | [fw1-01.svg](./previews/fw1-01.svg) |
+| 02 | [fw1-02.svg](./previews/fw1-02.svg) |
+| 03 | [fw1-03.svg](./previews/fw1-03.svg) |
+| 04 | [fw1-04.svg](./previews/fw1-04.svg) |
+| 05 | [fw1-05.svg](./previews/fw1-05.svg) |
+| 06 | [fw1-06.svg](./previews/fw1-06.svg) |
+| 07 | [fw1-07.svg](./previews/fw1-07.svg) |
+| 08 | [fw1-08.svg](./previews/fw1-08.svg) |
+
+See [previews/README.md](./previews/README.md).
 
 ## All frameworks
 
@@ -27,22 +39,22 @@ Hook → 5 mistakes → recap → CTA (fully filled niche copy).
 | FW1 Mistakes listicle | Discovery-call mistakes (ops consultants) | **Fully filled** |
 | FW2 Mistake → Fix | Paired corrective actions | Slots |
 | FW3 Checklist | Pre-flight checklist | Slots |
-| FW4 Case teardown + Offer anatomy | Diagnosis spine + offer anatomy |Slots |
+| FW4 Case teardown + Offer anatomy | Diagnosis spine + offer anatomy | Slots |
 
-## Under 25 minutes
+## How to use
 
-1. Duplicate from Community (or the design file).
+1. Duplicate from Community (when live) or the design file.
 2. Swap niche copy into slots (FW1 is the teaching example).
 3. Export PNG 01–08 or PDF → LinkedIn Document post (see [EXPORT.md](./EXPORT.md)).
 
 ## Honest differentiation
 
-Free Community files also help you work “in minutes.”  
-**This pack’s hold:** ops/strategy **niche-filled FW1** + explicit framework spines + slot contracts — not “we invented speed.”
+Free Community files also help you ship fast.  
+**This pack’s hold:** ops/strategy **niche-filled FW1** + explicit framework spines + slot contracts — not a unique “minutes” claim vs Magier.
 
 ## Cost / auth
 
-**Free.** No Gumroad. No ads. INR 0. LinkedIn promo from the studio is **off** until designated — this repo + Community are the free rails.
+**Free.** No Gumroad. No ads. INR 0. LinkedIn promo from the studio is **off**.
 
 ## License
 

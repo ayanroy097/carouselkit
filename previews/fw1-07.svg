@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#0B1F33"/>
+  <rect width="1080" height="8" fill="#2DD4BF"/>
+  <text x="72" y="118" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="22" font-weight="700">THE PATTERN</text>
+  <text x="72" y="160" fill="#FFFFFF" font-family="system-ui,Segoe UI,sans-serif" font-size="40" font-weight="700"><tspan x="72" dy="0">Diagnose before you</tspan><tspan x="72" dy="52">prescribe. Map power before</tspan><tspan x="72" dy="52">you pitch.</tspan></text>
+  <text x="72" y="364" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="28"><tspan x="72" dy="0">1) System map → 2) Their words → 3)</tspan><tspan x="72" dy="38">Decision map → 4) Change surface → 5) Next</tspan><tspan x="72" dy="38">commit. That is the discovery call that</tspan><tspan x="72" dy="38">leads to a signed SOW.</tspan></text>
+  <text x="72" y="1294" fill="#B8C7D6" font-family="system-ui,Segoe UI,sans-serif" font-size="18">CarouselKit · Framework 1 — Mistakes</text>
+  <text x="1008" y="1294" fill="#2DD4BF" font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="700" text-anchor="end">07 / 08</text>
+</svg>
